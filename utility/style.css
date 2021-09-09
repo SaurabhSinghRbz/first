@@ -1,5 +1,6 @@
 *{
     background-color: aqua;
+    text-align: center;
 }
 
 h1{
@@ -15,5 +16,9 @@ h1{
 
 .main{
     padding: 50px;
-    font-size: 4rem;
+    font-size: 100%;
+}
+
+img{
+    width: 100%;
 }
