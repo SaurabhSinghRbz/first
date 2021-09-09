@@ -1,0 +1,19 @@
+*{
+    background-color: aqua;
+}
+
+h1{
+    color: red;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 97vh;
+}
+
+.main{
+    padding: 50px;
+    font-size: 4rem;
+}
